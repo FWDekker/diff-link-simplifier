@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Simplifies links to MediaWiki diffs.",
     "permissions": [
-        "declarativeContent", // To gray out page action icon
+        "declarativeContent", // To gray out page action icon when not applicable
         "activeTab" // To extract data from the URL of the current tab
     ],
     "background": {
@@ -11,7 +11,6 @@
       "persistent": false
     },
     "page_action": {
-        "default_title": "DEFAULT TITLE",
         "default_popup": "popup.html",
         "default_icon": {
             "16": "images/icon16.png",
