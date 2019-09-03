@@ -1,10 +1,16 @@
-# Diff Link Simplifier
-Simplifies links to MediaWiki diffs.
+<h1 align="center">
+Diff Link Simplifier
+</h1>
+
+<p align="center">
+    <a href="https://chrome.google.com/webstore/detail/dnjbdaljelgojdeikjnihcddghpcaenj"><img src="https://img.shields.io/chrome-web-store/v/dnjbdaljelgojdeikjnihcddghpcaenj?style=for-the-badge" alt="Chrome Web Store" /></a>
+    <a href="https://github.com/FWDekker/diff-link-simplifier/releases/latest"><img src="https://img.shields.io/github/v/release/FWDekker/diff-link-simplifier?sort=semver&style=for-the-badge" alt="Releases" /></a>
+</p>
 
 If you want to link to a diff on someone's talk page it's pretty ugly to include the full URL. It's possible to link to `Special:Diff` to create an internal link, but this involves extracting parts of the url and that is bothersome. This Chrome extension automatically creates the internal link for you so all you have to do is copy and paste it onto the talk page.
 
 ## Example
-<img align="right" src=".github/wikipedia-example.png" alt="Wikipedia example" />
+<img align="right" src=".github/wikipedia-example.png" alt="Wikipedia example" width="320" />
 
 If you're on the page
 ```

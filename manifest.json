@@ -2,10 +2,7 @@
     "name": "Diff Link Simplifier",
     "version": "1.0.0",
     "description": "Simplifies links to MediaWiki diffs.",
-    "permissions": [
-        "declarativeContent", // To gray out page action icon when not applicable
-        "activeTab" // To extract data from the URL of the current tab
-    ],
+    "permissions": ["declarativeContent", "activeTab"],
     "background": {
       "scripts": ["background.js"],
       "persistent": false
