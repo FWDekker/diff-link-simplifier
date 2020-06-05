@@ -1,3 +1,5 @@
+# This project has been superseded by [the MediaWiki gadget](https://fallout.fandom.com/wiki/MediaWiki:Gadget-SimpleDiffLink.js)
+
 <h1 align="center">
 Diff Link Simplifier
 </h1>
